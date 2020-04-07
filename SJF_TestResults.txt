@@ -1,0 +1,66 @@
+SHORTEST JOB FIRST TRIALS (n=5)
+Trial 1 Average Turnaround Time: 429ns
+Trial 2 Average Turnaround Time: 429ns
+Trial 3 Average Turnaround Time: 429ns
+Trial 4 Average Turnaround Time: 429ns
+Trial 5 Average Turnaround Time: 429ns
+Trial 6 Average Turnaround Time: 429ns
+Trial 7 Average Turnaround Time: 429ns
+Trial 8 Average Turnaround Time: 429ns
+Trial 9 Average Turnaround Time: 429ns
+Trial 10 Average Turnaround Time: 429ns
+Trial 11 Average Turnaround Time: 429ns
+Trial 12 Average Turnaround Time: 429ns
+Trial 13 Average Turnaround Time: 429ns
+Trial 14 Average Turnaround Time: 429ns
+Trial 15 Average Turnaround Time: 429ns
+Trial 16 Average Turnaround Time: 429ns
+Trial 17 Average Turnaround Time: 429ns
+Trial 18 Average Turnaround Time: 429ns
+Trial 19 Average Turnaround Time: 429ns
+Trial 20 Average Turnaround Time: 430ns
+n=5 Average Turnaround Time: 429
+SHORTEST JOB FIRST TRIALS (n=10)
+Trial 1 Average Turnaround Time: 1123ns
+Trial 2 Average Turnaround Time: 1123ns
+Trial 3 Average Turnaround Time: 1123ns
+Trial 4 Average Turnaround Time: 1124ns
+Trial 5 Average Turnaround Time: 1123ns
+Trial 6 Average Turnaround Time: 1123ns
+Trial 7 Average Turnaround Time: 1123ns
+Trial 8 Average Turnaround Time: 1123ns
+Trial 9 Average Turnaround Time: 1123ns
+Trial 10 Average Turnaround Time: 1123ns
+Trial 11 Average Turnaround Time: 1123ns
+Trial 12 Average Turnaround Time: 1124ns
+Trial 13 Average Turnaround Time: 1123ns
+Trial 14 Average Turnaround Time: 1123ns
+Trial 15 Average Turnaround Time: 1123ns
+Trial 16 Average Turnaround Time: 1124ns
+Trial 17 Average Turnaround Time: 1123ns
+Trial 18 Average Turnaround Time: 1123ns
+Trial 19 Average Turnaround Time: 1123ns
+Trial 20 Average Turnaround Time: 1123ns
+n=10 Average Turnaround Time: 1123
+SHORTEST JOB FIRST TRIALS (n=15)
+Trial 1 Average Turnaround Time: 1182ns
+Trial 2 Average Turnaround Time: 1182ns
+Trial 3 Average Turnaround Time: 1182ns
+Trial 4 Average Turnaround Time: 1182ns
+Trial 5 Average Turnaround Time: 1182ns
+Trial 6 Average Turnaround Time: 1182ns
+Trial 7 Average Turnaround Time: 1182ns
+Trial 8 Average Turnaround Time: 1182ns
+Trial 9 Average Turnaround Time: 1182ns
+Trial 10 Average Turnaround Time: 1182ns
+Trial 11 Average Turnaround Time: 1182ns
+Trial 12 Average Turnaround Time: 1182ns
+Trial 13 Average Turnaround Time: 1182ns
+Trial 14 Average Turnaround Time: 1182ns
+Trial 15 Average Turnaround Time: 1182ns
+Trial 16 Average Turnaround Time: 1182ns
+Trial 17 Average Turnaround Time: 1182ns
+Trial 18 Average Turnaround Time: 1182ns
+Trial 19 Average Turnaround Time: 1182ns
+Trial 20 Average Turnaround Time: 1182ns
+n=15 Average Turnaround Time: 1182

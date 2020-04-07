@@ -1,0 +1,274 @@
+FIRST COME FIRST SERVED TRIALS (n=5)
+Trial 1 Average Turnaround Time: 577ns
+Trial 2 Average Turnaround Time: 577ns
+Trial 3 Average Turnaround Time: 576ns
+Trial 4 Average Turnaround Time: 576ns
+Trial 5 Average Turnaround Time: 576ns
+Trial 6 Average Turnaround Time: 576ns
+Trial 7 Average Turnaround Time: 577ns
+Trial 8 Average Turnaround Time: 576ns
+Trial 9 Average Turnaround Time: 576ns
+Trial 10 Average Turnaround Time: 576ns
+Trial 11 Average Turnaround Time: 576ns
+Trial 12 Average Turnaround Time: 577ns
+Trial 13 Average Turnaround Time: 576ns
+Trial 14 Average Turnaround Time: 576ns
+Trial 15 Average Turnaround Time: 577ns
+Trial 16 Average Turnaround Time: 576ns
+Trial 17 Average Turnaround Time: 576ns
+Trial 18 Average Turnaround Time: 576ns
+Trial 19 Average Turnaround Time: 576ns
+Trial 20 Average Turnaround Time: 577ns
+n=5 Average Turnaround Time: 576
+
+FIRST COME FIRST SERVED TRIALS (n=10)
+Trial 1 Average Turnaround Time: 1481ns
+Trial 2 Average Turnaround Time: 1482ns
+Trial 3 Average Turnaround Time: 1482ns
+Trial 4 Average Turnaround Time: 1482ns
+Trial 5 Average Turnaround Time: 1481ns
+Trial 6 Average Turnaround Time: 1483ns
+Trial 7 Average Turnaround Time: 1481ns
+Trial 8 Average Turnaround Time: 1481ns
+Trial 9 Average Turnaround Time: 1482ns
+Trial 10 Average Turnaround Time: 1481ns
+Trial 11 Average Turnaround Time: 1482ns
+Trial 12 Average Turnaround Time: 1482ns
+Trial 13 Average Turnaround Time: 1481ns
+Trial 14 Average Turnaround Time: 1482ns
+Trial 15 Average Turnaround Time: 1482ns
+Trial 16 Average Turnaround Time: 1483ns
+Trial 17 Average Turnaround Time: 1481ns
+Trial 18 Average Turnaround Time: 1485ns
+Trial 19 Average Turnaround Time: 1483ns
+Trial 20 Average Turnaround Time: 1481ns
+n=10 Average Turnaround Time: 1481
+
+FIRST COME FIRST SERVED TRIALS (n=15)
+Trial 1 Average Turnaround Time: 1837ns
+Trial 2 Average Turnaround Time: 1838ns
+Trial 3 Average Turnaround Time: 1838ns
+Trial 4 Average Turnaround Time: 1837ns
+Trial 5 Average Turnaround Time: 1839ns
+Trial 6 Average Turnaround Time: 1838ns
+Trial 7 Average Turnaround Time: 1837ns
+Trial 8 Average Turnaround Time: 1837ns
+Trial 9 Average Turnaround Time: 1837ns
+Trial 10 Average Turnaround Time: 1837ns
+Trial 11 Average Turnaround Time: 1838ns
+Trial 12 Average Turnaround Time: 1838ns
+Trial 13 Average Turnaround Time: 1837ns
+Trial 14 Average Turnaround Time: 1837ns
+Trial 15 Average Turnaround Time: 1838ns
+Trial 16 Average Turnaround Time: 1838ns
+Trial 17 Average Turnaround Time: 1838ns
+Trial 18 Average Turnaround Time: 1837ns
+Trial 19 Average Turnaround Time: 1837ns
+Trial 20 Average Turnaround Time: 1837ns
+n=15 Average Turnaround Time: 1837
+
+SHORTEST JOB FIRST TRIALS (n=5)
+Trial 1 Average Turnaround Time: 429ns
+Trial 2 Average Turnaround Time: 429ns
+Trial 3 Average Turnaround Time: 429ns
+Trial 4 Average Turnaround Time: 429ns
+Trial 5 Average Turnaround Time: 430ns
+Trial 6 Average Turnaround Time: 429ns
+Trial 7 Average Turnaround Time: 429ns
+Trial 8 Average Turnaround Time: 429ns
+Trial 9 Average Turnaround Time: 429ns
+Trial 10 Average Turnaround Time: 429ns
+Trial 11 Average Turnaround Time: 429ns
+Trial 12 Average Turnaround Time: 429ns
+Trial 13 Average Turnaround Time: 429ns
+Trial 14 Average Turnaround Time: 429ns
+Trial 15 Average Turnaround Time: 429ns
+Trial 16 Average Turnaround Time: 429ns
+Trial 17 Average Turnaround Time: 429ns
+Trial 18 Average Turnaround Time: 429ns
+Trial 19 Average Turnaround Time: 429ns
+Trial 20 Average Turnaround Time: 429ns
+n=5 Average Turnaround Time: 429
+SHORTEST JOB FIRST TRIALS (n=10)
+Trial 1 Average Turnaround Time: 1123ns
+Trial 2 Average Turnaround Time: 1123ns
+Trial 3 Average Turnaround Time: 1123ns
+Trial 4 Average Turnaround Time: 1124ns
+Trial 5 Average Turnaround Time: 1123ns
+Trial 6 Average Turnaround Time: 1124ns
+Trial 7 Average Turnaround Time: 1123ns
+Trial 8 Average Turnaround Time: 1123ns
+Trial 9 Average Turnaround Time: 1123ns
+Trial 10 Average Turnaround Time: 1123ns
+Trial 11 Average Turnaround Time: 1123ns
+Trial 12 Average Turnaround Time: 1123ns
+Trial 13 Average Turnaround Time: 1123ns
+Trial 14 Average Turnaround Time: 1124ns
+Trial 15 Average Turnaround Time: 1123ns
+Trial 16 Average Turnaround Time: 1123ns
+Trial 17 Average Turnaround Time: 1123ns
+Trial 18 Average Turnaround Time: 1123ns
+Trial 19 Average Turnaround Time: 1123ns
+Trial 20 Average Turnaround Time: 1123ns
+n=10 Average Turnaround Time: 1123
+
+SHORTEST JOB FIRST TRIALS (n=15)
+Trial 1 Average Turnaround Time: 1182ns
+Trial 2 Average Turnaround Time: 1182ns
+Trial 3 Average Turnaround Time: 1182ns
+Trial 4 Average Turnaround Time: 1182ns
+Trial 5 Average Turnaround Time: 1182ns
+Trial 6 Average Turnaround Time: 1182ns
+Trial 7 Average Turnaround Time: 1183ns
+Trial 8 Average Turnaround Time: 1182ns
+Trial 9 Average Turnaround Time: 1182ns
+Trial 10 Average Turnaround Time: 1182ns
+Trial 11 Average Turnaround Time: 1182ns
+Trial 12 Average Turnaround Time: 1182ns
+Trial 13 Average Turnaround Time: 1182ns
+Trial 14 Average Turnaround Time: 1182ns
+Trial 15 Average Turnaround Time: 1182ns
+Trial 16 Average Turnaround Time: 1182ns
+Trial 17 Average Turnaround Time: 1182ns
+Trial 18 Average Turnaround Time: 1182ns
+Trial 19 Average Turnaround Time: 1182ns
+Trial 20 Average Turnaround Time: 1182ns
+n=15 Average Turnaround Time: 1182
+
+ROUND ROBIN 2NS SLICE TRIALS (n=5)
+Trial 1 Average Turnaround Time: 712ns
+Trial 2 Average Turnaround Time: 723ns
+Trial 3 Average Turnaround Time: 721ns
+Trial 4 Average Turnaround Time: 723ns
+Trial 5 Average Turnaround Time: 709ns
+Trial 6 Average Turnaround Time: 717ns
+Trial 7 Average Turnaround Time: 729ns
+Trial 8 Average Turnaround Time: 725ns
+Trial 9 Average Turnaround Time: 717ns
+Trial 10 Average Turnaround Time: 712ns
+Trial 11 Average Turnaround Time: 715ns
+Trial 12 Average Turnaround Time: 718ns
+Trial 13 Average Turnaround Time: 720ns
+Trial 14 Average Turnaround Time: 724ns
+Trial 15 Average Turnaround Time: 723ns
+Trial 16 Average Turnaround Time: 717ns
+Trial 17 Average Turnaround Time: 712ns
+Trial 18 Average Turnaround Time: 721ns
+Trial 19 Average Turnaround Time: 718ns
+Trial 20 Average Turnaround Time: 726ns
+n=5 Average Turnaround Time: 719
+
+ROUND ROBIN 2NS SLICE TRIALS (n=10)
+Trial 1 Average Turnaround Time: 2047ns
+Trial 2 Average Turnaround Time: 2056ns
+Trial 3 Average Turnaround Time: 2050ns
+Trial 4 Average Turnaround Time: 2029ns
+Trial 5 Average Turnaround Time: 2045ns
+Trial 6 Average Turnaround Time: 2053ns
+Trial 7 Average Turnaround Time: 2045ns
+Trial 8 Average Turnaround Time: 2053ns
+Trial 9 Average Turnaround Time: 2035ns
+Trial 10 Average Turnaround Time: 2036ns
+Trial 11 Average Turnaround Time: 2045ns
+Trial 12 Average Turnaround Time: 2062ns
+Trial 13 Average Turnaround Time: 2056ns
+Trial 14 Average Turnaround Time: 2057ns
+Trial 15 Average Turnaround Time: 2035ns
+Trial 16 Average Turnaround Time: 2054ns
+Trial 17 Average Turnaround Time: 2071ns
+Trial 18 Average Turnaround Time: 2046ns
+Trial 19 Average Turnaround Time: 2049ns
+Trial 20 Average Turnaround Time: 2056ns
+n=10 Average Turnaround Time: 2049
+
+ROUND ROBIN 2NS SLICE TRIALS (n=15)
+Trial 1 Average Turnaround Time: 2222ns
+Trial 2 Average Turnaround Time: 2211ns
+Trial 3 Average Turnaround Time: 2238ns
+Trial 4 Average Turnaround Time: 2216ns
+Trial 5 Average Turnaround Time: 2255ns
+Trial 6 Average Turnaround Time: 2225ns
+Trial 7 Average Turnaround Time: 2226ns
+Trial 8 Average Turnaround Time: 2229ns
+Trial 9 Average Turnaround Time: 2225ns
+Trial 10 Average Turnaround Time: 2227ns
+Trial 11 Average Turnaround Time: 2228ns
+Trial 12 Average Turnaround Time: 2235ns
+Trial 13 Average Turnaround Time: 2225ns
+Trial 14 Average Turnaround Time: 2256ns
+Trial 15 Average Turnaround Time: 2337ns
+Trial 16 Average Turnaround Time: 2226ns
+Trial 17 Average Turnaround Time: 2227ns
+Trial 18 Average Turnaround Time: 2214ns
+Trial 19 Average Turnaround Time: 2241ns
+Trial 20 Average Turnaround Time: 2258ns
+n=15 Average Turnaround Time: 2236
+
+ROUND ROBIN 5NS SLICE TRIALS (n=5)
+Trial 1Average Turnaround Time: 691ns
+Trial 2Average Turnaround Time: 691ns
+Trial 3Average Turnaround Time: 693ns
+Trial 4Average Turnaround Time: 691ns
+Trial 5Average Turnaround Time: 693ns
+Trial 6Average Turnaround Time: 691ns
+Trial 7Average Turnaround Time: 691ns
+Trial 8Average Turnaround Time: 691ns
+Trial 9Average Turnaround Time: 691ns
+Trial 10Average Turnaround Time: 691ns
+Trial 11Average Turnaround Time: 691ns
+Trial 12Average Turnaround Time: 690ns
+Trial 13Average Turnaround Time: 692ns
+Trial 14Average Turnaround Time: 693ns
+Trial 15Average Turnaround Time: 692ns
+Trial 16Average Turnaround Time: 694ns
+Trial 17Average Turnaround Time: 692ns
+Trial 18Average Turnaround Time: 694ns
+Trial 19Average Turnaround Time: 691ns
+Trial 20Average Turnaround Time: 692ns
+n=5 Average Turnaround Time: 691
+
+ROUND ROBIN 5NS SLICE TRIALS (n=10)
+Trial 1Average Turnaround Time: 1976ns
+Trial 2Average Turnaround Time: 1976ns
+Trial 3Average Turnaround Time: 1978ns
+Trial 4Average Turnaround Time: 1984ns
+Trial 5Average Turnaround Time: 1975ns
+Trial 6Average Turnaround Time: 1977ns
+Trial 7Average Turnaround Time: 1976ns
+Trial 8Average Turnaround Time: 1976ns
+Trial 9Average Turnaround Time: 1975ns
+Trial 10Average Turnaround Time: 1977ns
+Trial 11Average Turnaround Time: 1978ns
+Trial 12Average Turnaround Time: 1976ns
+Trial 13Average Turnaround Time: 1976ns
+Trial 14Average Turnaround Time: 1975ns
+Trial 15Average Turnaround Time: 1972ns
+Trial 16Average Turnaround Time: 1977ns
+Trial 17Average Turnaround Time: 1975ns
+Trial 18Average Turnaround Time: 1974ns
+Trial 19Average Turnaround Time: 1976ns
+Trial 20Average Turnaround Time: 1974ns
+n=10 Average Turnaround Time: 1976
+
+ROUND ROBIN 5NS SLICE TRIALS (n=15)
+Trial 1Average Turnaround Time: 2142ns
+Trial 2Average Turnaround Time: 2142ns
+Trial 3Average Turnaround Time: 2143ns
+Trial 4Average Turnaround Time: 2142ns
+Trial 5Average Turnaround Time: 2141ns
+Trial 6Average Turnaround Time: 2144ns
+Trial 7Average Turnaround Time: 2148ns
+Trial 8Average Turnaround Time: 2144ns
+Trial 9Average Turnaround Time: 2145ns
+Trial 10Average Turnaround Time: 2144ns
+Trial 11Average Turnaround Time: 2143ns
+Trial 12Average Turnaround Time: 2147ns
+Trial 13Average Turnaround Time: 2145ns
+Trial 14Average Turnaround Time: 2143ns
+Trial 15Average Turnaround Time: 2142ns
+Trial 16Average Turnaround Time: 2144ns
+Trial 17Average Turnaround Time: 2143ns
+Trial 18Average Turnaround Time: 2147ns
+Trial 19Average Turnaround Time: 2144ns
+Trial 20Average Turnaround Time: 2143ns
+n=15 Average Turnaround Time: 2143
